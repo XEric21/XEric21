@@ -94,10 +94,7 @@ Acabando el grado medio de SMR apunto de comenzar las prácticas. Viendo que pro
 ---
 
 ## 📊 Actividad en GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XEric21&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XEric21&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XEric21&show_icons=true)
 
 ---
 
