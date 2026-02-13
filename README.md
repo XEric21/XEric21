@@ -68,8 +68,8 @@ Actualmente sigo aprendiendo sobre Linux, scripting y automatización.
 
 ## 📊 Mi actividad en GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=dark)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=XEric21&show_icons=true&theme=dark)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=XEric21&layout=compact&theme=dark)
 
 
 ## 🧰 Tecnologías
