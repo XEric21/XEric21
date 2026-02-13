@@ -34,14 +34,6 @@ Técnico en formación apasionado por la administración de sistemas y redes. Ac
 - Cisco Packet Tracer
 - PuTTY
 
----
-
-
----
-
-
-- Protocolos: DHCP, DNS, FTP, SSH, HTTP, HTTPS
-
 ### 🔧 Hardware
 - Montaje y reparación de equipos
 - Diagnóstico de fallos y mantenimiento
