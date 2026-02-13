@@ -2,6 +2,9 @@
 
 💻 Técnico en Sistemas | 🌐 Redes | 🐧 Linux | ⚡ Automatización
 
+---
+
+## 🎓 Formación
 
 🎓 Sistemas Microinformáticos y Redes (SMR)  
 📍 Instituto Luis Suñer | 2026  
@@ -10,8 +13,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy técnico en formación con interés en la administración de sistemas y redes.  
-Actualmente sigo aprendiendo sobre Linux, scripting y automatización.
+Técnico en formación apasionado por la administración de sistemas y redes. Actualmente profundizando en Linux, scripting y automatización con el objetivo de especializarme en infraestructuras IT.
 
 ---
 
@@ -24,6 +26,20 @@ Actualmente sigo aprendiendo sobre Linux, scripting y automatización.
 
 ### 🌐 Redes
 - Configuración de routers y puntos de acceso
+- Protocolos: DHCP, DNS, FTP, SSH, HTTP, HTTPS
+- VLANs y subnetting
+
+### 📱 Herramientas
+- VirtualBox
+- Cisco Packet Tracer
+- PuTTY
+
+---
+
+
+---
+
+
 - Protocolos: DHCP, DNS, FTP, SSH, HTTP, HTTPS
 
 ### 🔧 Hardware
@@ -53,34 +69,48 @@ Actualmente sigo aprendiendo sobre Linux, scripting y automatización.
 
 ---
 
-## 🏆 Prácticas
+## 🏆 Experiencia Práctica
 
-**CIPFP Luis Suñer | Mayo - Junio (120 horas)**
+**CIPFP Luis Suñer** | Mayo - Junio (120 horas)
 
-- Montaje, reparación y mantenimiento de ordenadores
-- Instalación de Windows 11 y Linux Mint
-- Inventario de equipos
-- Formateo de equipos del centro
-- Soporte técnico a trabajadores (hardware y software)
+- ✅ Montaje, reparación y mantenimiento de ordenadores
+- ✅ Instalación de Windows 11 y Linux Mint
+- ✅ Gestión de inventario de equipos
+- ✅ Formateo y preparación de sistemas
+- ✅ Soporte técnico a usuarios (hardware y software)
 
 ---
-
-## 📫 Contacto
-
-📧 ericcasanovas3@gmail.com
-
-## 📊 Mi actividad en GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=XEric21&show_icons=true&theme=dark)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=XEric21&layout=compact&theme=dark)
-
 
 ## 🧰 Tecnologías
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+---
+
+## 📊 Actividad en GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XEric21&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XEric21&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📫 Contacto
+
+📧 **ericcasanovas3@gmail.com**  
+🔗 **GitHub:** [XEric21](https://github.com/XEric21)
+
