@@ -1,6 +1,9 @@
 # 👋 Hola, soy Eric Casanovas
 
-🎓 Técnico en Sistemas Microinformáticos y Redes (SMR)  
+💻 Técnico en Sistemas | 🌐 Redes | 🐧 Linux | ⚡ Automatización
+
+
+🎓 Sistemas Microinformáticos y Redes (SMR)  
 📍 Instituto Luis Suñer | 2026  
 
 ---
