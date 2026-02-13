@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Técnico en formación apasionado por la administración de sistemas y redes. Actualmente profundizando en Linux, scripting y automatización con el objetivo de especializarme en infraestructuras IT.
+Acabando el grado medio de SMR apunto de comenzar las prácticas. Viendo que proyectos comenzar y como hacerlos
 
 ---
 
